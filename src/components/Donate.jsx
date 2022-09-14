@@ -31,7 +31,7 @@ const Donate = () => {
             Invest in the Power Of <br></br> Women This December</h6>
       <button
         style={{ color:colors.orangeLight}}
-        className="px-3 py-2 font-semibold">
+        className="px-3 py-2 font-semibold cursor-pointer hover:opacity-70">
         DONATE NOW
       </button>
         </div>
@@ -47,7 +47,7 @@ const Donate = () => {
            Donate to return 4.3M <br></br> children to school</h6>
       <button
         style={{ color:colors.orangeLight}}
-        className="px-3 py-2 font-semibold">
+        className="px-3 py-2 font-semibold cursor-pointer hover:opacity-70">
         DONATE NOW
       </button>
         </div>
@@ -63,7 +63,7 @@ const Donate = () => {
            Join hands to ensure <br></br> a long life for all</h6>
       <button
         style={{ color:colors.orangeLight}}
-        className="px-3 py-2 font-semibold">
+        className="px-3 py-2 font-semibold cursor-pointer hover:opacity-70">
         DONATE NOW
       </button>
         </div>

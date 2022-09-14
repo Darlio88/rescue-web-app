@@ -23,7 +23,7 @@ const SectionOne = () => {
       
       <button
         style={{backgroundColor:colors.orangeLight, color:colors.white, textTransform:"uppercase"}}
-        className="md:px-3 md:py-2 px-1 py-1"
+        className="md:px-3 md:py-2 px-1 py-1 cursor-pointer hover:opacity-70"
         >GET started</button>
      </div>
      <div >
