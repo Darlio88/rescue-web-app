@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+## REFUGEE DONATION WEBSITE TEMPLATE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Brief Description
+ this is a donation website for people in countries facing humanitarian crises 
+ the website has a scetion where willing donors can click to donate the cash, this can be intergrated with Stripe APIs to cash money in a real world situation
 
-## Available Scripts
+## design overview
+ the website template is fully responsive and it is designed with a mobile first approach
 
-In the project directory, you can run:
+## screenshots
 
-### `npm start`
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__182__PRa3bwNPe.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173641226' alt='screenshot' />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__188__kofRSwTZiW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173641208' alt='screenshot' />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__184__U0FE8spiM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173641189' alt='screenshot' />
 
-### `npm test`
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__190__Q3nfbnETP3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173640864' alt='screenshot' />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__187__3VjAdHAbLH.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173640857' alt='screenshot' />
 
-### `npm run build`
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__183__N1sKl6F82.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173640843' alt='screenshot' />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__186__xAYlp0fCCa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173641852' alt='screenshot' />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__185__XfUEw6rlcG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173641892' alt='screenshot' />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src='https://ik.imagekit.io/x761p7oyp/refugee-web/Screenshot__189__dhXId0Rwe.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663173642115' alt='screenshot' />
