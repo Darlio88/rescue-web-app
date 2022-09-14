@@ -7,8 +7,8 @@ import World from '../assets/world.png'
 
 const SectionThree = () => {
   return (
-    <div className='flex flex-row justify-between p-5 px-10'>
-    <div className='flex flex-col items-start space-y-3'>
+    <div className='md:flex flex-row justify-between p-5 px-10'>
+    <div className='md:flex flex-col items-start space-y-3'>
       <div style={{height:"64px", width:"64px"}}>
       <img className="block" src={World} alt="world"/>
       </div>
@@ -22,7 +22,7 @@ const SectionThree = () => {
         This year, the focus will be on the right to seek <br></br>
        safety in times of peril</h6>
     </div>
-    <div className='flex flex-col items-start space-y-3'>
+    <div className='md:flex flex-col items-start space-y-3'>
       <div style={{height:"64px", width:"64px"}}>
       <img className="block" src={City} alt="world"/>
       </div>

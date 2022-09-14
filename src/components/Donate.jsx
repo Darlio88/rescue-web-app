@@ -8,19 +8,19 @@ import Student from '../assets/student.png'
 const Donate = () => {
   return (
     <div>
-    <div className='p-5 px-10'>
-      <div className='flex justify-between items-end'>
+    <div className='p-5 px-10 '>
+      <div className='md:flex justify-between items-end'>
         <h4 
         style={{color:colors.black}}
-        className='text-3xl font-semibold'>Good Helping <br></br> Communities</h4>
+        className='md:text-3xl  font-semibold'>Good Helping <br></br> Communities</h4>
         <h6
          style={{color:colors.black}}
-         className='text-base font-semibold'
+         className='text-base md:font-semibold'
         >we help women survivors of war rebuild their lives <br></br> and choose their own futures</h6>
       </div>
-      <div className='flex justify-between items-center mt-10'>
+      <div className='md:flex  justify-between items-center mt-10'>
         <div 
-        className='space-y-4 px-8 py-8'
+        className='space-y-4 my-2 px-8 py-8'
         style={{ backgroundColor:colors.white,}}>
           <div style={{height:160, width:160}}>
             <img src={Piggy} alt="save-money" className='block' />
@@ -36,7 +36,7 @@ const Donate = () => {
       </button>
         </div>
         <div 
-        className='space-y-4 px-8 py-8'
+        className='space-y-4 my-2 px-8 py-8'
         style={{ backgroundColor:colors.white}}>
           <div style={{height:160, width:160}}>
             <img src={Student} alt="save-money" className='block' />
@@ -52,7 +52,7 @@ const Donate = () => {
       </button>
         </div>
         <div 
-        className='space-y-3 px-8 py-8'
+        className='space-y-3 my-2 px-8 py-8'
         style={{ backgroundColor:colors.white}}>
           <div style={{height:160, width:160}}>
             <img src={Volunteer} alt="save-money" className='block' />

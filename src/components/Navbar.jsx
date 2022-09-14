@@ -27,7 +27,7 @@ const Navbar = () => {
     {/* RIGHT NAVIGATION BAR */}
     <div 
     style={{flex:3}}
-    className="flex flew-row space-x-1 justify-between">
+    className="hidden md:flex flew-row space-x-1 justify-between">
       <h6 style={{color:colors.black}}
       className='text-base font-bold'>Home</h6>
       <h6  style={{color:colors.black}}

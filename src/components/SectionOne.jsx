@@ -12,18 +12,18 @@ const SectionOne = () => {
     <div className='space-y-4'>
       <h4 
       style={{color:colors.black}}
-      className='font-bold text-8xl'>
+      className='font-bold text-2xl md:text-8xl'>
         Save <br></br> Refugee
       </h4>
       <p 
-      className="font-bold"
+      className="md:font-bold"
       style={{color:colors.black}}>
         It is time to save the refugee for humanity
       </p>
       
       <button
         style={{backgroundColor:colors.orangeLight, color:colors.white, textTransform:"uppercase"}}
-        className="px-3 py-2"
+        className="md:px-3 md:py-2 px-1 py-1"
         >GET started</button>
      </div>
      <div >

@@ -8,9 +8,11 @@ import {colors} from '../assets/colors'
 
 const SectionTwo = () => {
   return (
-    <div className='flex items-center justify-between p-5 px-10'>
+    <div className='md:flex items-center justify-between p-5 px-10'>
   <div>
-    <img src={Deal} style={{display:"block"}} alt='donate-money' />
+    <img
+    className='h-80 w-80'
+     src={Deal} style={{display:"block"}} alt='donate-money' />
   </div>
   <p style={{color:colors.black}}
       className='text-lg font-bold'>Save homeless people with 
